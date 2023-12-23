@@ -2,7 +2,8 @@
 
 A Python implementation inspired by the Hirst Spot Painting.
 
-![Hirst Spot](hirst_spot.png)
+https://github.com/barakadanny/Hirst-Spot-Painting-With-Python/assets/53088629/94d2c4aa-6469-45dd-8d1c-5085a2b9ef65
+
 
 ## Table of Contents
 - [Introduction](#introduction)
